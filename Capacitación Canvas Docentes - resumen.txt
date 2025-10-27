@@ -1,0 +1,266 @@
+I. INTRODUCCIÓN Y EQUIPO DE TRABAJO
+Presentación del equipo
+•	Wilson Arley Sánchez Pinzón: Coordinador de Operaciones Virtuales - Responsable de orientaciones metodológicas y estructura de asignaturas virtuales
+•	Nicolás Lesmes Ruiz: Diseñador Instruccional con amplia experiencia en educación virtual, generación de contenidos, acompañamiento pedagógico y producción de recursos educativos digitales
+•	Adelaida Orozco: "Ángel Guardián" - Encargada de gestión administrativa de asignaturas virtuales, procesos de reapertura de actividades y acompañamiento a estudiantes y profesores
+•	Alexander Alonso: Especialista en gestión de plataforma - Responsable de configuración de fechas y procesos técnicos de reapertura
+Equipo extendido completo
+•	Diseñadores instruccionales: Carolina Gil, Nicolás Lesmes, Lizeth Rojas - Profesionales encargados del diseño pedagógico de los cursos
+•	Especialista en Administración de ambientes virtuales: Diego Mora - Experto en gestión técnica de plataformas educativas
+•	Administrador de LMS (Canvas): Alexander Alonso - Responsable específico de la administración del Learning Management System
+Ejes de trabajo de la coordinación
+•	Producción de recursos educativos digitales
+•	Orientación metodológica sobre educación virtual
+•	Acompañamiento de estudiantes y profesores durante procesos de enseñanza y aprendizaje
+•	Autorías y asignaturas virtuales
+________________________________________
+II. ESTRUCTURA ACADÉMICA Y METODOLÓGICA
+Distribución detallada de horas por créditos
+Asignaturas de 2 créditos (4 unidades)
+•	16 horas sincrónicas:
+o	10 horas de videoconferencia (encuentros sincrónicos de 2 horas cada uno)
+o	6 horas de tutoría (sesiones de 1 hora 5 minutos cada una)
+•	16 horas asincrónicas: Acompañamiento en aula virtual que incluye calificación de actividades, respuesta a foros, seguimiento de foros, retroalimentación por bandeja de entrada de mensajes
+•	64 horas: Trabajo independiente del estudiante para construcción de evidencias y formalización de entregas
+•	Total: 96 horas (32 acompañadas + 64 independientes)
+Asignaturas de 3 créditos (6 unidades)
+•	48 horas de trabajo directo:
+o	23 horas de acompañamiento sincrónico (14 horas de videoconferencia + 9 horas de tutoría)
+o	25 horas de acompañamiento asincrónico (calificar actividades, responder foros, hacer seguimiento a foros, retroalimentación por bandeja de entrada)
+•	96 horas: Trabajo independiente del estudiante
+•	Total: 144 horas completas del curso
+Duración y calendarización de bloques académicos
+•	8 semanas por bloque académico completo
+•	2 créditos: Desarrollo de unidades 1-4 con cierre de calificaciones en semana 5
+•	3 créditos: Desarrollo de unidades 1-6 con cierre en semana 7 y semana 8 para ajustes de reapertura de actividades y elementos pendientes en términos de nota
+Recomendación especial de gestión temporal
+•	Planeación de calificaciones: Ser acuciosos y juiciosos con la planeación debido al agotamiento de fin de año y exigencia del modelo de calificaciones actual
+•	Seguimiento continuo: Evitar acumulación de calificaciones al final del período
+________________________________________
+III. ORIENTACIONES PEDAGÓGICAS ESPECÍFICAS
+Recomendaciones detalladas para tutores
+1.	Definir objetivos claros para cada encuentro sincrónico/tutoría comunicándolos previamente con los estudiantes
+2.	Comunicación asertiva y efectiva con estudiantes, reconociendo que algunos tutores tienen experiencia previa y otros es su primera experiencia
+3.	Revisar plataforma y materiales antes del inicio para garantizar que todo esté disponible y funcional
+4.	Verificar disponibilidad y funcionalidad de enlaces y actividades, especialmente enlaces de materiales de consulta
+5.	Reportar ajustes necesarios a través del Canal del Ángel Guardián para manejo interno del equipo
+Programación específica de sesiones sincrónicas
+•	Encuentros sincrónicos: 2 horas de duración como recomendación desde la coordinación
+•	Tutorías: 1 hora 5 minutos de duración específica para este bloque
+•	Grabación obligatoria de todas las sesiones con configuración automática en Webex
+Estructura detallada de nomenclatura
+[Nombre asignatura]_[Período]_[Tipo espacio]_[Unidad]
+Ejemplo concreto: Minería de datos_20253_Encuentro sincrónico_Unidad 1
+Explicación de períodos académicos:
+•	20251: Primer semestre convencional
+•	20252: Intersemestral de mitad de año
+•	20253: Segundo semestre convencional
+•	20254: Intersemestral de fin de año
+Conectividad pedagógica
+•	Narrativa conectada: Conectar en narrativa los encuentros sincrónicos con el desarrollo de las actividades
+•	Recomendaciones de mejora: Los tutores pueden hacer recomendaciones sobre cómo ajustar actividades, manejándolo con estudiantes y concertándolo en términos de las fechas por cada unidad
+________________________________________
+IV. SISTEMA DE EVALUACIÓN COMPLETO
+Distribución porcentual detallada
+2 créditos (4 unidades)
+•	Foros: 28% del total de la nota (7% por cada foro de 4 unidades)
+•	Actividades de unidad: 52% del total (13% por cada actividad de 4 unidades)
+•	Evaluación final: 20% del total (5% por cada evaluación de 4 unidades)
+•	Total: 100% distribuido en 12 actividades calificables
+3 créditos (6 unidades)
+•	Foros: 30% del total (5% por cada foro de 6 unidades)
+•	Actividades de unidad: 45% del total (7.5% por cada actividad de 6 unidades)
+•	Evaluación final: 25% del total (aproximadamente 4.17% por cada evaluación de 6 unidades)
+•	Total: 100% distribuido en 18 actividades calificables
+Proceso detallado de calificación
+•	Tiempo estimado por estudiante: 10-15 minutos dependiendo de complejidad del ejercicio y habilidad profesional del tutor
+•	Calendarización de calificación: Finalizada la unidad 1, durante el término de la semana de la unidad dos se recomienda hacer la evaluación de la unidad 1
+•	Seguimiento progresivo: Unidad dos calificarla durante la duración de la semana de la unidad 3
+•	Registro de no entrega: Registrar calificación como cero si el estudiante no entregó
+•	Estrategia para grupos grandes: Considerar actividades colaborativas para disminuir cantidad de entregas
+Problemas técnicos específicos en calificación
+•	Incidencia identificada: Calificación de rúbrica no se refleja automáticamente en el cuadro de nota final
+•	Causa técnica: Check pendiente en la configuración de la asociación entre criterios de rúbrica y puntaje total
+•	Procedimiento de solución:
+1.	Detectar con primer estudiante calificado
+2.	Reportar inmediatamente al Ángel Guardián
+3.	Esperar configuración por administrador de plataforma
+4.	Verificar check de relación entre las dos partes
+•	Advertencia crítica: Si se continúa calificando sin reportar, se borra el avance cuando se haga la corrección
+Instrumentos de evaluación
+•	Rúbricas de evaluación: Disponibles en plataforma, desarrolladas a partir de Autorías contratadas
+•	Comentarios de retroalimentación: Adicionales a la rúbrica para acercamiento al aprendizaje
+•	Evaluación mediante rúbrica configurada: No realizar calificación directa, pues está alineada con resultados de aprendizaje
+________________________________________
+V. PLATAFORMA CANVAS - ORIENTACIÓN TÉCNICA COMPLETA
+Configuración inicial detallada del perfil
+1.	Acceso inicial: Ingresar a ucatólica.edu.co → Campus en línea
+2.	Credenciales: Correo institucional terminado en @ucatolica.edu.co con contraseña institucional
+3.	Configuración de perfil: Acceder a Perfil → Editar
+4.	Elementos obligatorios:
+o	Foto profesional personal
+o	Biografía completa con experiencia académica
+o	Experiencia profesional detallada
+o	Formación académica
+o	Enlaces relevantes opcionales (blog, portafolio)
+5.	Guardado: Clic en guardar perfil para confirmar cambios
+Estructura completa del curso en Canvas
+Secciones principales de navegación
+1.	Curso de inducción para estudiantes: Información completa de ingreso a plataforma Canvas
+2.	Orientación de Canvas: Recursos sobre ingreso, presentación de tareas, participación en foros, evaluaciones, calificaciones
+3.	Guía del curso: Contiene video de presentación del docente, objetivo de asignatura, resultados de aprendizaje, conocimientos previos, escala de calificación, calculadora de notas, formato de solicitud de apertura
+4.	Ayuda: Instrucciones de navegación, videos de apoyo técnico, manual de netiqueta, requisitos tecnológicos, reglamento estudiantil
+Elementos clave por unidad instruccional
+•	Contenidos: Disponibles en 3 formatos (SCORM interactivo, PDF descargable, MP3 audio)
+•	Control de lectura: 5 preguntas no calificables integradas solo en formato SCORM
+•	Foro de discusión: Espacio de debate con pregunta central e intervención entre compañeros
+•	Actividad de unidad: Entregable individual con instrucciones específicas
+•	Evaluación final: Cuestionario automático calificado por sistema
+•	Encuentros sincrónicos y tutorías: Sesiones en vivo programadas en Webex
+Proceso detallado de calificación en plataforma
+Calificación de foros de discusión
+1.	Acceso: Ingresar a la intervención específica del estudiante
+2.	Preparación: Descargar PDF de rúbricas con descriptores completos
+3.	Evaluación: Seleccionar descriptores según desempeño (dominio sobresaliente, bueno, suficiente, insuficiente, sin dominio)
+4.	Retroalimentación: Agregar comentarios escritos en campo específico para acercamiento al aprendizaje
+5.	Finalización: Guardar y entregar, verificando que puntaje se refleje automáticamente
+Calificación de actividades de unidad
+1.	Revisión inicial: Abrir entregable del estudiante (PDF u otro formato)
+2.	Configuración visual: Ampliar espacio para mejor visibilidad simultánea de rúbrica y entregable
+3.	Aplicación de rúbrica: Dar clic en "ver rúbrica" y seleccionar descriptores según entrega
+4.	Verificación técnica: Confirmar que calificación se coloque automáticamente al guardar
+5.	Retroalimentación integral: Escribir comentarios sobre aspectos positivos y mejorables
+6.	Formatos alternativos: Posibilidad de agregar retroalimentación en archivos adjuntos además de texto
+Programación técnica de encuentros sincrónicos (Webex)
+1.	Acceso inicial: Ingresar a Cisco Webex desde menú Canvas
+2.	Activación requerida: Activar función de grabación automática en primera configuración
+3.	Programación específica:
+o	Hacer clic en "Programar reunión"
+o	Colocar nombre exacto según nomenclatura establecida
+o	Configurar fecha y hora específicas
+o	Establecer duración: 2 horas para encuentros, 1h5m para tutorías
+4.	Configuración crítica: Activar check de "Grabar automáticamente" para bienestar de profesores y universidad
+5.	Verificación: Hacer prueba técnica previa ingresando, verificando grabación y saliendo para confirmar que aparece en "completado"
+Sistema completo de comunicación con estudiantes
+•	Anuncios oficiales: Para comunicaciones generales del curso con posibilidad de incluir imágenes para mayor visibilidad
+•	Bandeja de entrada: Comunicación directa y privada estudiante-profesor
+•	Foro de preguntas y respuestas: Espacio transversal para dudas durante todo el proceso
+•	Chat de plataforma: Herramienta adicional de uso menos frecuente
+•	Recomendación pedagógica: Estar pendientes de bandeja de entrada para situaciones particulares y solicitudes de ampliación de temas
+________________________________________
+VI. GESTIÓN ADMINISTRATIVA COMPLETA - ROL ÁNGEL GUARDIÁN
+Funciones detalladas del Ángel Guardián
+•	Acompañamiento personalizado: A estudiantes virtuales en adaptación a la virtualidad reconociendo que no para todos es igual de fácil
+•	Seguimiento integral: A adaptación considerando que estudiantes son también padres, madres, hijos y atienden labores y trabajos
+•	Comunicaciones de interés: Seguimiento a estudiantes de acuerdo a necesidades individuales
+•	Articulación interdepartamental: Trabajo conjunto con profesores de cada asignatura y equipo de permanencia cuando es necesario
+•	Gestión administrativa: Procesos de recuperación, reapertura y situaciones especiales
+Proceso completo de recuperación y reapertura
+Condiciones específicas de aplicación
+•	Aplica para: Actividades de unidad (entregables) y evaluaciones finales (cuestionarios)
+•	No aplica para: Foros de discusión por ser espacios grupales de participación y debate
+•	Periodicidad establecida: Cada 2 unidades completas
+•	Justificación requerida: Situaciones de peso verificable (calamidad doméstica, situación familiar, incapacidad médica, enfermedad, fallas eléctricas en zonas rurales verificables por IP)
+•	No aplica para: Justificaciones como "se me olvidó", "no estuve pendiente"
+Procedimiento administrativo detallado
+1.	Inicio: Estudiante diligencia formato de solicitud completo con justificación detallada
+2.	Revisión docente: Profesor verifica justificación y solicita soportes si es necesario
+3.	Aprobación: Profesor firma formato si está de acuerdo con la información
+4.	Envío institucional: Envío a Ángel Guardián en fechas establecidas del calendario
+5.	Validación técnica: Verificación de IP para situaciones de zona rural, validación de soportes
+6.	Comunicación formal: Envío de correo al estudiante copiando al profesor con autorización y instrucciones
+Plazos específicos y fechas críticas
+•	Estudiante: 2 días después del cierre de unidad para enviar formato (ejemplo: cierre 8-9 nov, envío 10-11 nov)
+•	Profesor: Tarde del día 11 y máxima mañana del 12 para revisar y enviar a Ángel Guardián
+•	Actividad de unidad: Entrega por bandeja de entrada (no reapertura en plataforma) del 13 al 16 de noviembre
+•	Evaluaciones: Reapertura en plataforma con horarios específicos (6-7 am o 9-10 pm) en fechas establecidas
+Sistema de seguimiento académico
+•	Calculadora de notas: Herramienta en Excel formulada para que estudiantes lleven control de su progreso
+•	Visualización en plataforma: Estudiantes y profesores no ven nota final en Canvas, solo porcentaje ponderado de entregas
+•	Reporte final: Envío de reporte de notas al finalizar curso para socialización con programas académicos
+•	Registro automatizado: Calificaciones finales se registran de forma automatizada en sistema PAW de la universidad
+________________________________________
+VII. CONSIDERACIONES ESPECIALES Y PLAN INTEGRADOR
+Plan Integrador específico para Bloque 2
+Asignaturas aplicables
+•	Machine Learning
+•	Herramientas para Minería de Datos
+•	Habilidades Gerenciales Estratégicas
+•	Inteligencia de Negocios para la Toma de Decisiones
+•	Marketing Internacional en Hispanoamérica
+•	Evaluación Gerencial de Indicadores
+•	Big Data
+Características del Plan Integrador
+•	Ubicación curricular: Unidad 4 para asignaturas de 2 créditos, Unidad 6 para 3 créditos
+•	Naturaleza: Caso de estudio que presenta situación narrativa para conexión general con conocimientos previos
+•	Desarrollo: Actividad donde estudiante debe hacer articulaciones, diligenciar elementos solicitados y resolver caso
+•	Calificación: Independiente por cada profesor, sin cruce con otros cursos o asignaturas
+•	Instrucciones: Recopilación de desarrollos de unidades anteriores para estructuración final
+Aspectos técnicos críticos
+Calculadora de notas
+•	Ubicación: Botón "Guía del curso" en página de inicio
+•	Formato: Archivo Excel preformulado
+•	Uso: Estudiantes relacionan calificaciones en columna "nota de puntos"
+•	Propósito: Seguimiento autónomo del progreso ante imposibilidad de ver nota final en plataforma
+•	Escala de aprobación: Calificación igual o superior a 7.0 sobre 10.0
+Compatibilidad y requisitos técnicos
+•	Problemas reportados: Dispositivos iPad tienen restricciones en vinculación Webex-Canvas para videoconferencias
+•	Recomendación oficial: Usar dispositivos Windows para sesiones sincrónicas para prevenir problemas de grabación
+•	Navegadores: Compatible con Chrome, Brave, Firefox sin restricciones identificadas
+•	Pruebas recomendadas: Realizar pruebas técnicas previas a sesiones reales, especialmente cuando se use dispositivos alternativos
+Recomendaciones pedagógicas ampliadas
+Para encuentros sincrónicos
+•	Ir más allá de contenidos: No limitarse a información disponible en plataforma
+•	Dinámicas interactivas: Generar interés adicional mediante herramientas y actividades dinámicas
+•	Ampliación temática: Ubicar o usar herramientas que hagan la información más dinámica
+•	Ayudas para desarrollo: Brindar orientaciones particulares y apoyos adicionales para desarrollo de actividades
+Para seguimiento académico
+•	Revisión previa: Antes de cada unidad, revisar temáticas, información y evaluaciones
+•	Atención a dudas: Estar pendiente de estudiantes con inquietudes después de evaluaciones
+•	Retroalimentación proactiva: Atender solicitudes de ampliación de temas por bandeja de entrada
+•	Manejo de calificaciones grupales: Atender situaciones donde calificaciones aparezcan diferentes entre compañeros de grupo
+________________________________________
+VIII. CANALES DE COMUNICACIÓN Y SOPORTE
+Estructura completa de soporte
+Para profesores - Soporte inmediato
+•	Ángel Guardián: angelguardian01@catolica.edu.co - Para gestión administrativa y acompañamiento
+•	Grupos de WhatsApp: Por semestre/bloque para comunicación ágil y recordatorios semanales
+•	Coordinaciones de programa: Para temas disciplinares y designación de horas
+•	Equipo de operaciones virtuales: Para orientación metodológica y gestión de implementación
+Para estudiantes - Canales establecidos
+•	Bandeja de entrada de Canvas: Comunicación directa con profesor
+•	Foro de preguntas y respuestas: Dudas transversales del curso
+•	Anuncios del curso: Comunicaciones generales oficiales
+•	Correo Ángel Guardián: Situaciones administrativas y de adaptación
+•	Foro de presentación: Espacio inicial de socialización
+Comunicación interna del equipo
+•	Reuniones de coordinación: Articulación mitad de semestre con cada asignatura
+•	Seguimiento conjunto: Con equipo de permanencia cuando se requiere
+•	Reportes técnicos: A informática para situaciones de acceso y credenciales
+________________________________________
+IX. RECOMENDACIONES FINALES Y ACCIONES INMEDIATAS
+Acciones críticas para implementar inmediatamente
+1.	Prueba técnica de Webex: Realizar ejercicio de crear sesión, entrar, verificar grabación y salir para confirmar que aparece en "completado" - No esperar hasta sesiones reales
+2.	Revisión exhaustiva de asignaturas:
+o	Contenidos en 3 formatos (SCORM, PDF, MP3)
+o	Instrucciones de actividades (foros, actividades de unidad, evaluaciones)
+o	Enlaces de materiales de consulta
+o	Cuestionarios de evaluación final
+3.	Configuración de perfil completo: Foto profesional y biografía con experiencia antes del inicio
+4.	Verificación de acceso: Confirmar matrícula en cursos y funcionalidad de credenciales
+5.	Alistamiento de sesiones sincrónicas: Programar con nomenclatura correcta y grabación automática activada
+Calendarización de recordatorios
+•	Recordatorios semanales: Por WhatsApp con actividades de la semana y fechas críticas
+•	Seguimiento de calificaciones: Recordatorio de cortes según cronograma establecido
+•	Comunicación de eventualidades: Notificación inmediata de situaciones técnicas como problemas de calificación
+Gestión de situaciones pendientes
+•	Profesores sin acceso: Andrés Castro y Naser - Pendientes por confirmación de correo institucional con coordinaciones e informática
+•	Cruces de horario: Profesor Jorge Ignacio Blanco - Por resolver con ingeniera Katerin antes del lunes por socialización previa con estudiantes
+•	Configuraciones técnicas: Verificación de check en actividades para calificación automática
+Enfoque pedagógico final
+•	Acompañamiento activo: En intervenciones de estudiantes en foros y presentaciones
+•	Retroalimentación formativa: Fundamental para que estudiante sepa qué hizo bien y qué mejorar
+•	Flexibilidad con responsabilidad: En manejo de tiempos y ajustes concertados con estudiantes
+•	Comunicación proactiva: Estar pendiente de bandejas de entrada y foros de preguntas
+Nota completa: Esta transcripción organiza meticulosamente todos los elementos compartidos durante la sesión de orientación, conservando cada detalle técnico, procedimental, pedagógico y administrativo para servir como guía de referencia completa en el desarrollo de las asignaturas virtuales, asegurando que no se omite ningún aspecto relevante para la implementación exitosa del bloque académico.
+
